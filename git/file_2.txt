@@ -1,0 +1,1 @@
+ - menambahkan file 2 ke stagging area lalu membatalkan perubahan
